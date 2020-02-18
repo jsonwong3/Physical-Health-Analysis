@@ -31,8 +31,9 @@ library(ggmosaic)
 # can provide us with a general idea. We plan on using the BMI to categorize individuals into weight groups such as;
 # "Underweight, Healthy, Overweight, Obese", and check if there's a trend in physical well-being within different education groups.
 
-## Analysis 
-phy_health = read_csv('data/physical_health_canada.csv')
+## Analysis
+path = getwd()=
+phy_health = read_csv(str_c(path, '/physical_health_canada.csv'))
 
 #### Data Exploration
 # Rename variables
