@@ -1,0 +1,2 @@
+This repository contains the code, data, and documentation for a university assignment that investigates the relationship between an individual's educational attainment and their general health status.
+The primary goal of this project was to explore potential correlations, identify trends, and analyze how different levels of education might influence various health outcomes within a given population.
